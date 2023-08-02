@@ -1,0 +1,11 @@
+h1#cabecalho{
+    background-color: bro;
+    text-align: center;
+    color: aliceblue;
+}
+div#info{
+    position: absolute;
+    text-align: center;
+    bottom: 20px;
+    right: 110px;
+}
